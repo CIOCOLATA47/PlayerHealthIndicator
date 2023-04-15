@@ -6,8 +6,8 @@
   "name": "PlayerHealthIndicators",
   "description": "Displays a health bar above players",
   "authors": [
-    "Gaider10",
-    "Ciocolata47"
+    "Ciocolata47",
+    "Gaider10"
   ],
 
   "license": "MIT",
@@ -15,7 +15,7 @@
   "environment": "client",
   "entrypoints": {
     "main": [
-      "me.andrew.healthindicators.HealthIndicatorsMod"
+      "me.cioco.healthindicators.HealthIndicatorsMod"
     ]
   },
   "mixins": [
